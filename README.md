@@ -97,14 +97,5 @@ You are welcome to contribute to this project by adding extra features, fixing b
 
 5. Create a pull request on the main repository.
 
-## License
 
-This project is open-source and released under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Thanks to [js mastry](https://github.com/js-mastry) for inspiration and guidance.
 - ThirdWeb for providing web3 integration.
-```
-
-You can copy and paste this updated content into your README.md file in your GitHub repository. It now includes installation instructions, usage guidelines, contributing information, the license, and acknowledgments. Make sure to replace `"yourusername/web3-crowdfunding.git"` with your actual GitHub repository URL and customize any other details as needed.
