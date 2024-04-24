@@ -24,7 +24,7 @@ const Sidebar = () => {
         <Icon styles="w-[55px] h-[55px] bg-slate-200" imgUrl={logo} />
       </Link>
 
-      <div className="flex-1 flex flex-col justify-between items-center bg-slate-200 text-white rounded-[20px] w-[76px] py-4 mt-12">
+      <div className="flex-1 flex flex-col justify-between items-center bg-slate-100 text-white rounded-[20px] w-[76px] py-4 mt-12">
         <div className="flex flex-col justify-center items-center gap-3">
           {navlinks.map((link) => (
             <Icon 
@@ -41,7 +41,7 @@ const Sidebar = () => {
           ))}
         </div>
 
-        <Icon styles="bg-slate-200 shadow-secondary" imgUrl={sun} />
+        {/* <Icon styles="bg-slate-200 shadow-secondary" imgUrl={sun} /> */}
       </div>
     </div>
   )

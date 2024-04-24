@@ -54,7 +54,7 @@ const CreateCampaign = () => {
             placeholder="Alexender"
             inputType="text"
             value={form.name}
-          
+          className="border-gray-300"
             handleChange={(e) => handleFormFieldChange('name', e)}
           />
           <FormField 
